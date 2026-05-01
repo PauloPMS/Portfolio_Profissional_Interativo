@@ -5,10 +5,9 @@ Este projeto é um **hub de carreira estático** desenvolvido com foco em boas p
 ## 🚀 Demonstração
 
 🔗 **Site**
+
 (Adicione aqui o link do GitHub Pages)
 
-🔗 **Repositório**
-(Adicione aqui o link do seu GitHub)
 
 ## 🧩 Wireframe Desktop
 
