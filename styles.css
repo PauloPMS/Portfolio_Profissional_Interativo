@@ -215,7 +215,7 @@ input, textarea {
 @media (min-width: 768px) {
   .sobre {
     flex-direction: row;
-    text-align: left;
+    text-align: center;
   }
 
   .grid {
