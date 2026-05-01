@@ -8,16 +8,88 @@ Este projeto é um **hub de carreira estático** desenvolvido com foco em boas p
 
 (Adicione aqui o link do GitHub Pages)
 
-
 ## 🧩 Wireframe Desktop
 
-[wireframe_desktop](assets/wireframe_desktop.txt)
+```   
+┌──────────────────────────────────────────────┐
+│ NOME              SOBRE | PORTFÓLIO | CONTATO│
+└──────────────────────────────────────────────┘
 
+┌──────────────────────────────────────────────┐
+│                  SOBRE                       │
+│                                              │
+│   ( FOTO )      Texto sobre você             │
+│                 Resumo profissional          │
+│                                              │
+└──────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────┐
+│   PORTFÓLIO                                  │
+│                                              │
+│  ┌──────────────┐   ┌──────────────┐         │
+│  │   IMG        │   │   IMG        │         │
+│  │ Projeto 1    │   │ Projeto 2    │         │
+│  │ descrição    │   │ descrição    │         │
+│  │ [ botão ]    │   │ [ botão ]    │         │
+│  └──────────────┘   └──────────────┘         │
+│                                              │
+└──────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────┐
+│                 CONTATO                      │
+│                                              │
+│        [ nome ]                              │
+│        [ email ]                             │
+│        [ mensagem ]                          │
+│        [ enviar botão ]                      │
+│                                              │
+└──────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────┐
+│        ( GitHub ) ( LinkedIn )         ↑     │
+│              © 2026               botão topo │
+└──────────────────────────────────────────────┘
+
+                          
+```
 
 ## 🧩 Wireframe Mobile
 
-[wireframe_mobile](assets/wireframe_mobile.txt)
+```  
+┌──────────────────────┐
+│NOME          S  P  C |     
+└──────────────────────┘
 
+┌──────────────────────┐
+│        FOTO          │
+│   Texto sobre        │
+└──────────────────────┘
+
+┌──────────────────────┐
+│     PROJETO 1        │
+│     [ imagem ]       │
+│     [ botão ]        │
+│                      │
+│     PROJETO 2        │
+│     [ imagem ]       │
+│     [ botão ]        │
+└──────────────────────┘
+
+┌──────────────────────┐
+│   FORMULÁRIO         │
+│ [ nome ]             │
+│ [ email ]            │
+│ [ msg ]              │
+│ [ enviar ]           │
+└──────────────────────┘
+
+┌──────────────────────┐
+│ GitHub LinkedIn      |
+│ © 2026   ↑ botão topo│
+└──────────────────────┘
+
+       
+```
 
 ## 🧩 Funcionalidades
 
@@ -63,7 +135,17 @@ O projeto foi otimizado para obter boa pontuação no Lighthouse:
 
 ## 📁 Estrutura do projeto
 
-[estrutura_projeto](assets/estrutura_projeto.txt)
+```
+
+Portfolio_Profissional_Interativo/
+               ├── index.html
+               ├── styles.css
+               └── assets/
+                  ├── profile.jpg
+                  ├── projeto1.jpg
+                  └── projeto2.jpg
+
+``
 
 ## 📬 Contato
 
