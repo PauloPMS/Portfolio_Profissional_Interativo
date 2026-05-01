@@ -73,11 +73,15 @@ O formulário utiliza integração com **Formspree**, permitindo envio de mensag
 
 1. Clone o repositório:
 
-use o terminal ou shell
+```bash
+git clone https://github.com/seuusuario/seurepositorio
+```
 
-git clone https://github.com/PauloPMS/Portfolio_Profissional_Interativo.git
+2. Abra o arquivo:
 
-2. Abra o arquivo **index.html**
+```bash
+index.html
+```
 
 ## 📌 Versionamento
 
