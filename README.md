@@ -6,7 +6,7 @@ Este projeto é um **hub de carreira estático** desenvolvido com foco em boas p
 
 🔗 **Site**
 
-(Adicione aqui o link do GitHub Pages)
+[portfolio_profissional_interativo](https://portfolio-profissional-interativo.vercel.app/)
 
 ## 🧩 Wireframe Desktop
 
